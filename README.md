@@ -16,4 +16,6 @@ delay between symptoms and the confirmation of being infected with a nasal swab.
 Here is the graphical representation of the world we are considering: 
 ![Image](milan_districts.png)
 
-And here, a sample from the analysis we conducted: 
+And here, a sample from the analysis we conducted that you can find in the file: 
+![Image](analysis_sample.png)
+

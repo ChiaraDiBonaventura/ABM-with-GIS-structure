@@ -1,5 +1,5 @@
 # ABM-with-GIS-structure
-An Agent Based Model with GIS structure to evaluate the effects of a Contact-Tracing App on Coronavirus spread
+An Agent Based Model with GIS structure to evaluate the effects of a Contact-Tracing App on Coronavirus spread. 
 
 During the current pandemic of COVID-19 the importance of contact tracing 
 applications has been an argument of debate. In Europe, the governments are
@@ -13,3 +13,7 @@ relevant only if a high number of Milan’s citizens download the application.
 Furthermore, to increase the efficiency of Immuni is essential to decrease the days of
 delay between symptoms and the confirmation of being infected with a nasal swab.
 
+Here is the graphical representation of the world we are considering: 
+![Image](milan_districts.png)
+
+And here, a sample from the analysis we conducted: 
